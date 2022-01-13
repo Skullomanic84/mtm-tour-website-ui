@@ -1,7 +1,9 @@
-# mtm-tour-website-ui
-## Build A Responsive Adventures Website With HTML, CSS, and JavaScript
+# mntn-tour-website-ui
+## A Responsive Adventures Website With HTML, CSS, and JavaScript
 
-> Improve your HTML and CSS skills by building a responsive website. After completing this lesson, you will be able to create responsive layouts using Flexbox and Grid.
+> The site is built on HTML, CSS and Javascript. For layouts combined grid and flexbox layout to handle responsiveness. The design approach is mobile first.
+
+#### UI Design courtesy of Doctor Dev (https://dribbble.com/shots/14992192-MNTN-travel-website)
 
 ![Project thumbnail](/thumbnail.jpg)
  
